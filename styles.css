@@ -1,0 +1,15 @@
+.body{
+    display: flex;
+}
+
+.parent{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+.footer{
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+    margin: 0%;
+    padding: 40px;
+}
